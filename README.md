@@ -1,5 +1,5 @@
 # Meritts
-- HackGSU Spring 2017 Inspired App.
+- In Development, HackGSU Spring 2017 Inspired App.
 
 # Goals
 * Aimed at High school / College student outreach organizations.
